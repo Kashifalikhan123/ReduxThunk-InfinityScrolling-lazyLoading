@@ -1,0 +1,29 @@
+.detail-container{
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+.right{
+    width:40%;
+    border: 1px solid black;
+    height: 400px;
+}
+img{
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+
+}
+.left{
+    width:100%;
+    overflow-y: scroll;
+    margin-left: 2px;
+    
+}
+.bottom{
+    height: 40px;
+    width: 100%;
+    border: 1px solid black;
+}
